@@ -37,11 +37,6 @@ class App extends Component {
   }
 
   gameOver = () => {
-    // for(var i=0;i<12;i++){
-    //   this.updateItem(i, {count: 0});
-    // }
-    
-    
     if(this.state.currentScore>=this.state.topScore){
       this.setState({topScore : this.state.currentScore});
     }
