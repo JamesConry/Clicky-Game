@@ -41,6 +41,12 @@ class App extends Component {
       this.setState({topScore : this.state.currentScore});
     }
     this.setState({currentScore: 0});
+    
+    images.forEach(element => {
+      element.count = 0;
+    });
+    
+
   }
 
   render() {
