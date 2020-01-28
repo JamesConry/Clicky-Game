@@ -12,3 +12,5 @@ Web link: https://jamesconry.github.io/Clicky-Game/
 Notable Technologies used: react
 
 Role: Complete creation of app.
+
+ScreenShot:![screen shot](/clickyGame/ClickyGame.png)
