@@ -13,4 +13,4 @@ Notable Technologies used: react
 
 Role: Complete creation of app.
 
-ScreenShot:![screen shot](/clickyGame/ClickyGame.PNG)
+ScreenShot:![screen shot](/clickygame/ClickyGame.PNG)
